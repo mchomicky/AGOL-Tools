@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "AGOL Tools",
+    "description": "This extension provides tools to enhance the AGOL experience",
+    "version": "1.1.2",
+    "browser_action": {
+     "default_icon": "AGOL Tools_Edit.png",
+     "default_popup": "AGOLTools.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
